@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: Roger Bacon
 ---
 <div class="blurb">
 	<h1>Roger Bacon</h1>
